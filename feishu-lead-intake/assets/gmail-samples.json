@@ -1,0 +1,14 @@
+{
+  "normal": {
+    "id": "gmail-demo-001",
+    "body_text": "Email: buyer-b@example.invalid\nProduct: 演示型设备\nInquiry: 请提供 3 台的报价。"
+  },
+  "empty_inquiry": {
+    "id": "gmail-demo-002",
+    "body_text": "Email: buyer-b@example.invalid\nProduct: 演示型设备\nInquiry:   "
+  },
+  "flat_body": {
+    "id": "gmail-demo-003",
+    "body_text": "Email: buyer-c@example.invalid Inquiry：希望了解 2 台的交付周期。 Product: 演示型设备"
+  }
+}

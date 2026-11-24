@@ -1,0 +1,6 @@
+去重键,来源渠道,原始编号,询盘摘要,原始正文,联系邮箱
+baidu-aiff:demo-site:aiff-demo-001,百度爱番番·示例站,aiff-demo-001,询问演示型设备的交期。,"访客：你好，演示型设备的交期是多少？
+客服：请留下邮箱，方便后续确认。",buyer-a@example.invalid
+gmail:demo-mailbox:gmail-demo-001,官网表单·示例 Google Ads 来源,gmail-demo-001,请提供 3 台的报价。,"Email: buyer-b@example.invalid
+Product: 演示型设备
+Inquiry: 请提供 3 台的报价。",buyer-b@example.invalid

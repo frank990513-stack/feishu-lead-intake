@@ -1,0 +1,14 @@
+{
+  "normal": {
+    "clueId": "aiff-demo-001",
+    "emailAccount": "buyer-a@example.invalid",
+    "additionalContent": "询问演示型设备的交期。",
+    "formDetail": "<p>访客：你好，演示型设备的交期是多少？</p><p>客服：请留下邮箱，方便后续确认。</p>"
+  },
+  "unresolved_placeholder": {
+    "clueId": "${clueId}",
+    "emailAccount": "${emailAccount}",
+    "additionalContent": "${additionalContent}",
+    "formDetail": "${formDetail}"
+  }
+}
